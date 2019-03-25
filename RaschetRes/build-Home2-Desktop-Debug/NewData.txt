@@ -1,0 +1,4 @@
+Z	Temperature
+1	234
+1	23
+1	12
